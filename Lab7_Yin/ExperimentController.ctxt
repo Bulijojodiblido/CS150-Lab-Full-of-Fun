@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\r\n\ ExperimentController\r\n\r\n\ @author\ Zeppelin\r\n\ @version\ 0.114514\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ customersTest()
+comment2.text=\r\n\ Display\ the\ time\ to\ consturct\ certain\ Customer\ by\ increasing\ order\ of\ time\r\n
+comment3.params=start
+comment3.target=void\ openTimeTest(int)
+comment3.text=\r\n\ Generate\ two\ csv\ files\ of\ the\ customers\ served\ according\ to\ the\ open\ time\r\n
+comment4.params=
+comment4.target=void\ shopTest()
+comment4.text=\r\n\ Display\ the\ time\ to\ shop\ with\ certain\ Customer\ by\ increasing\ order\ of\ time\r\n
+comment5.params=seed\ kind\ size
+comment5.target=long\ timeToConstruct(int,\ int,\ int)
+comment5.text=\r\n\ test\ how\ long\ it\ takes\ for\ a\ certain\ structure\ of\ Customers\ to\ fill\ the\ data\r\n\r\n\ @param\ \ seed\ \ the\ seed\ for\ random\r\n\ @param\ \ kind\ \ the\ data\ structure\ to\ use\r\n\ @param\ \ size\ the\ dataSize\ to\ generate\r\n\ @return\ \ the\ time\ taken\ to\ construct\ Customers\r\n
+comment6.params=seed\ kind\ size
+comment6.target=long\ timeToShop(int,\ int,\ int)
+comment6.text=\r\n\ test\ how\ long\ it\ takes\ for\ certain\ amount\ of\ customers\ to\ do\ shopping\r\n\r\n\ @param\ \ seed\ \ the\ seed\ for\ random\r\n\ @param\ \ kind\ \ the\ data\ structure\ to\ use\r\n\ @param\ \ size\ the\ dataSize\ to\ generate\r\n\ @return\ \ the\ time\ taken\ to\ shop\r\n
+comment7.params=a\ dataSize\ seed\ start
+comment7.target=void\ arrayListGene(java.util.ArrayList,\ int,\ int,\ int)
+comment7.text=\r\n\ generate\ the\ array\ list\ of\ random\ customers\ to\ be\ Customers\r\n\r\n\ @param\ \ a\ \ the\ ArrayList\ to\ modify\r\n\ @param\ \ dataSize\ the\ dataSize\ to\ generate\r\n\ @param\ \ seed\ \ the\ seed\ for\ random\r\n\ @param\ \ start\ \ time\ to\ start\r\n
+numComments=8

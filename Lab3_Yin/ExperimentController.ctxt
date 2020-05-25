@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\r\n\ A\ test\ class\ of\ IntegerList\r\n\ It\ calculate\ the\ time\ spent\ on\ each\ method\ with\ different\ data\ size\r\n\r\n\ @author\ Yin\ Zheping\r\n\ @version\ 0.114514\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=ExperimentController()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ ExperimentController\r\n
+comment3.params=numberOfItems\ seed
+comment3.target=double\ timeAppend(int,\ int)
+comment3.text=\r\n\ This\ method\ calculates\ the\ time\ spent\ to\ append\ different\r\n\ amount\ of\ numbers\ to\ a\ IntegerList\ object\r\n\r\n\ @param\ \ numberOfItems\ the\ amount\ of\ numbers\ to\ append\r\n\ @param\ seed\ the\ number\ for\ a\ specified\ series\ of\ random\ numbers\r\n\ @return\ \ \ \ the\ time\ spent\r\n
+comment4.params=numberOfItems\ seed
+comment4.target=double\ timeToString(int,\ int)
+comment4.text=\r\n\ This\ method\ calculates\ the\ time\ spent\ to\ convert\ IntegerList\r\n\ of\ different\ sizes\ to\ String\r\n\r\n\ @param\ \ numberOfItems\ the\ amount\ of\ numbers\ to\ append\r\n\ @param\ seed\ the\ number\ for\ a\ specified\ series\ of\ random\ numbers\r\n\ @return\ \ \ \ the\ time\ spent\r\n
+numComments=5

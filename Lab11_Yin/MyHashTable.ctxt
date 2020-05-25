@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyHashTable
+comment0.text=\r\n\ Hash\ Table\r\n\ Train\ of\ Trains\r\n\r\n\ @author\ Yin\ Zheping\ The\ Train\ Conductor\r\n\ @version\ 0.114514T(T\ for\ Trainnnn)\r\n
+comment1.params=n
+comment1.target=MyHashTable(int)
+comment1.text=\r\n\ MyHashTable\ Constructor\r\n\r\n\ @param\ n\ the\ size\ of\ the\ table\r\n
+comment2.params=s
+comment2.target=boolean\ insert(Student)
+comment2.text=\r\n\ Insert\ a\ student\ into\ the\ hash\ table\r\n\r\n\ @param\ s\ the\ student\ to\ insert\r\n\ @return\ IF\ the\ insertion\ is\ successful\r\n
+comment3.params=id
+comment3.target=Student\ get(java.lang.String)
+comment3.text=\r\n\ Get\ the\ student\ with\ a\ specific\ ID\r\n\r\n\ @param\ id\ the\ ID\ the\ student\ have\r\n\ @return\ The\ student\ wit\ the\ same\ ID\r\n
+comment4.params=id
+comment4.target=Student\ poll(java.lang.String)
+comment4.text=\r\n\ Poll\ one\ element\ from\ the\ table\r\n\r\n\ @param\ id\ the\ ID\ the\ student\ have\r\n\ @return\ The\ student\ wit\ the\ same\ ID\r\n
+comment5.params=hashIndex\ s
+comment5.target=int\ indexOf(int,\ Student)
+numComments=6

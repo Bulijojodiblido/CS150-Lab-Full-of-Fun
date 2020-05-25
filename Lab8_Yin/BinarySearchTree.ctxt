@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=BinarySearchTree
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BinarySearchTree\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=e
+comment1.target=boolean\ insert(java.lang.Comparable)
+comment1.text=\r\n\ Insert\ a\ Element\ into\ the\ tree\r\n\r\n\ @param\ \ e\ the\ element\ to\ insert\r\n\ @return\ \ \ if\ the\ insertion\ is\ successfule\r\n
+comment2.params=nT\ e
+comment2.target=BinaryNode\ insert(BinaryNode,\ java.lang.Comparable)
+comment3.params=e
+comment3.target=boolean\ contains(java.lang.Comparable)
+comment3.text=\r\n\ Determine\ if\ the\ tree\ contain\ a\ specific\ element\r\n\r\n\ @param\ \ e\ the\ element\ to\ search\ for\r\n\ @return\ \ \ if\ the\ tree\ contain\ such\ an\ element\r\n
+comment4.params=nT\ e
+comment4.target=boolean\ contains(BinaryNode,\ java.lang.Comparable)
+comment5.params=
+comment5.target=java.lang.Comparable\ findMax()
+comment5.text=\r\n\ Return\ the\ largest\ element\ in\ the\ tree\r\n\r\n\ @return\ \ \ the\ largest\ element\ in\ the\ tree\r\n
+comment6.params=
+comment6.target=java.lang.Comparable\ findMin()
+comment6.text=\r\n\ Return\ the\ smallest\ element\ in\ the\ tree\r\n\r\n\ @return\ \ \ the\ smallest\ element\ in\ the\ tree\r\n
+numComments=7

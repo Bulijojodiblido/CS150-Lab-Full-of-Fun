@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CompLen
+comment0.text=\r\n\ This\ program\ compares\ pairs\ of\ inequalities\ of\ length\ depending\ on\ how\ many\ pairs\ the\ user\ want\ to\ compare\r\n\r\n\ @author\ \ Zeppelin\ Yin\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=feet1\ inch1\ feet2\ inch2\ e
+comment2.target=boolean\ compareBig(int,\ float,\ int,\ float,\ boolean)
+comment2.text=\r\n\ This\ method\ compares\ if\ the\ first\ inequality\ is\ bigger\ than\ the\ second\r\n\ @param\ feet1\ An\ int\r\n\ @param\ feet2\ An\ int\r\n\ @param\ inch1\ An\ float\r\n\ @param\ inch2\ An\ float\r\n\ @param\ e\ An\ boolean\r\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\n\ This\ method\ allows\ users\ to\ compare\ the\ inequalities\ as\ much\ as\ they\ wish\ to\r\n
+numComments=4

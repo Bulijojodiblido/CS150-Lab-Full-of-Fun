@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CountWords
+comment0.text=\r\n\ This\ program\ read\ each\ line\ of\ a\ txt\ file\ and\ \r\n\ creat\ display\ the\ information\ of\ each\ line\r\n\ It\ eventually\ creats\ a\ "myNumber"\ file\ on\r\n\ the\ same\ path\ storing\ the\ information\ of\ each\ line\r\n\ @author\ \ Zeppelin\ Yin\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ This\ method\ does\ what\ the\ entire\ program\ is\ suppose\ to\ do\r\n
+numComments=3

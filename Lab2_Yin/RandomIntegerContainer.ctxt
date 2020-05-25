@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=RandomIntegerContainer
+comment1.params=
+comment1.target=RandomIntegerContainer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RandomIntegerContainer\r\n
+comment2.params=x
+comment2.target=void\ addToFront(int)
+comment2.text=\r\n\ This\ method\ adds\ values\ to\ the\ front\ of\ the\ array\ list\r\n
+comment3.params=x
+comment3.target=void\ addToBack(int)
+comment3.text=\r\n\ This\ method\ adds\ values\ to\ the\ back\ of\ the\ array\ list\r\n
+comment4.params=x
+comment4.target=void\ addSorted(int)
+comment4.text=\r\n\ This\ method\ adds\ values\ to\ a\ sorted\ array\ list\ and\ still\ make\ the\ \r\n\ array\ list\ sorted\r\n
+comment5.params=x
+comment5.target=void\ productSorted(int)
+comment5.text=\r\n\ This\ method\ product\ the\ first\ element\ of\ a\ sorted\ array\ list\ and\ still\r\n\ make\ the\ array\ list\ sorted\r\n
+comment6.params=
+comment6.target=void\ selectionSort()
+comment6.text=\r\n\ This\ method\ sorts\ the\ array\ list\r\n
+comment7.params=
+comment7.target=int[]\ toArray()
+comment7.text=\r\n\ This\ method\ convert\ the\ array\ list\ to\ an\ int\ array\r\n
+numComments=8

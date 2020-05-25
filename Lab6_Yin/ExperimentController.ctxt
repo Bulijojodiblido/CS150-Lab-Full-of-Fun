@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\r\n\ Experiments\ are\ done\ here\r\n\r\n\ @Yin\ Zheping\r\n\ @0.114514\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=dataSize\ seed
+comment2.target=long\ stackToQueue(int,\ int)
+comment2.text=\r\n\ Calculte\ the\ time\ to\ add\ certain\ amount\ of\ data\ to\ a\ stack\r\n\ and\ then\ into\ a\ queue\r\n\r\n\ @param\ \ dataSize\ \ size\ of\ data\ to\ add\r\n\ @param\ \ seed\ \ the\ seed\ to\ generate\ random\ data\r\n\ @return\ \ time\ \ the\ time\ to\ add\ all\ the\ data\ to\ stack\ and\ then\ to\ queue\r\n
+comment3.params=dataSize\ seed
+comment3.target=long\ queueToStack(int,\ int)
+comment3.text=\r\n\ Calculte\ the\ time\ to\ add\ certain\ amount\ of\ data\ to\ a\ queue\r\n\ and\ then\ into\ a\ stack\r\n\r\n\ @param\ \ dataSize\ \ size\ of\ data\ to\ add\r\n\ @param\ \ seed\ \ the\ seed\ to\ generate\ random\ data\r\n\ @return\ \ time\ \ the\ time\ to\ add\ all\ the\ data\ to\ queue\ and\ then\ to\ stack\r\n
+numComments=4

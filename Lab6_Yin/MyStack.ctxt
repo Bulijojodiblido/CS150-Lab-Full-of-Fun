@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyStack
+comment0.text=\r\n\ Stack\ Data\ Structure\r\n\r\n\ @Yin\ Zheping\r\n\ @0.114514\r\n
+comment1.params=
+comment1.target=java.lang.Comparable\ peek()
+comment1.text=\r\n\ It\ returns\ the\ last\ added\ element\ in\ the\ stack\r\n\r\n\ @return\ \ \ \ the\ last\ added\ element\r\n
+comment2.params=
+comment2.target=boolean\ empty()
+comment2.text=\r\n\ This\ method\ checks\ if\ the\ linked\ list\ is\ empty\r\n\ \r\n\ @return\ \ \ \ if\ the\ linked\ list\ is\ empty\r\n
+comment3.params=
+comment3.target=java.lang.Comparable\ pop()
+comment3.text=\r\n\ Remove\ the\ last\ added\ element\r\n\r\n\ @return\ \ \ \ the\ element\ removed\r\n
+comment4.params=item
+comment4.target=java.lang.Comparable\ push(java.lang.Comparable)
+comment4.text=\r\n\ Add\ one\ element\ to\ the\ front\r\n\r\n\ @param\ \ E\ \ the\ element\ to\ add\r\n\ @return\ \ \ \ the\ added\ element\r\n
+comment5.params=o
+comment5.target=int\ search(java.lang.Object)
+comment5.text=\r\n\ This\ method\ search\ the\ index\ of\ the\ first\ required\ element\ in\ the\ list\r\n\ It\ uses\ enhanced\ for\ loop\r\n\ @param\ \ find\ the\ Integer\ to\ find\r\n\ @return\ \ \ \ the\ location\ of\ the\ first\ integer\ that\ equals\ to\ find\r\n
+numComments=6

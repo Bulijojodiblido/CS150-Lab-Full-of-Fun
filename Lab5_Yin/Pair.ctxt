@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Pair
+comment0.text=\r\n\ A\ class\ that\ create\ objects\ with\ two\ elements\r\n\ Key\ and\ Value\r\n\r\n\ @author\ Yin\ Zheping\r\n\ @version\ 0.114514\r\n
+comment1.params=kTemp\ vTemp
+comment1.target=Pair(java.lang.Comparable,\ java.lang.Comparable)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pair\r\n
+comment2.params=kTemp
+comment2.target=void\ keySetter(java.lang.Comparable)
+comment2.text=\r\n\ Set\ the\ key\ variable\r\n\r\n\ @param\ \ kTemp\ the\ key\ variable\ to\ add\r\n\ @return\ \ \ \ nothing\r\n
+comment3.params=vTemp
+comment3.target=void\ valueSetter(java.lang.Comparable)
+comment3.text=\r\n\ Set\ the\ value\ variable\r\n\r\n\ @param\ \ vTemp\ the\ value\ variable\ to\ add\r\n\ @return\ \ \ \ nothing\r\n
+comment4.params=
+comment4.target=java.lang.Comparable\ keyGetter()
+comment4.text=\r\n\ Get\ the\ key\ variable\r\n\r\n\ @param\ \ nothing\r\n\ @return\ \ \ \ the\ key\ variable\r\n
+comment5.params=
+comment5.target=java.lang.Comparable\ valueGetter()
+comment5.text=\r\n\ Get\ the\ value\ variable\r\n\r\n\ @param\ \ nothing\r\n\ @return\ \ \ \ the\ value\ variable\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ return\ the\ pair\ in\ string\r\n\r\n\ @param\ \ nothing\r\n\ @return\ \ \ \ the\ pair\ in\ string\r\n
+comment7.params=temp
+comment7.target=int\ compareTo(Pair)
+comment7.text=\r\n\ compare\ the\ current\ object\ with\ another\ object\r\n\r\n\ @param\ \ the\ other\ pair\ to\ compare\ with\r\n\ @return\ \ \ \ how\ far\ they\ are\ from\ each\ other\r\n
+numComments=8

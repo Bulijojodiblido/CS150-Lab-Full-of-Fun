@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=IntegerList
+comment0.text=\r\n\ A\ special\ list\ containing\ integers\r\n\r\n\ @author\ Yin\ Zheping\r\n\ @version\ 0.114514\r\n
+comment1.params=
+comment1.target=IntegerList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IntegerList\r\n
+comment2.params=x
+comment2.target=void\ append(java.lang.Integer)
+comment2.text=\r\n\ Add\ one\ value\ to\ the\ first\ null\ next\ in\ root\r\n\ Initialize\ root\ if\ root\ is\ null\r\n\r\n\ @param\ Integer\ x\ the\ value\ to\ add\ in\r\n\ @return\ \ \ \ nothing\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Return\ the\ numbers\ stored\ in\ cell\ and\ its\ nexts\r\n\ Return\ empty\ string\ if\ root\ is\ null\r\n\r\n\ @param\ no\ parameter\r\n\ @return\ \ \ \ the\ list\ in\ string\ form\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\r\n\ Determine\ if\ the\ list\ is\ empty\r\n\r\n\ @param\ No\ parameter\r\n\ @return\ \ \ \ true\ if\ root\ is\ null\ and\ false\ if\ root\ is\ not\ null\r\n
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyListIntegerContainer
+comment0.text=\r\n\ A\ SLL\ to\ contain\ Integers\r\n\r\n\ @author\ Yin\ Zheping\r\n\ @version\ 0.114514\r\n
+comment1.params=a
+comment1.target=void\ addToBack(java.lang.Integer)
+comment1.text=\r\n\ This\ method\ add\ values\ to\ the\ last\ position\ of\ the\ list\r\n\ @param\ \ a\ the\ value\ to\ add\r\n\ @return\ \ \ \ nothing\r\n
+comment2.params=a
+comment2.target=void\ addToFront(java.lang.Integer)
+comment2.text=\r\n\ This\ method\ add\ values\ to\ the\ first\ position\ of\ the\ list\r\n\ @param\ \ a\ the\ value\ to\ add\r\n\ @return\ \ \ \ nothing\r\n
+comment3.params=find
+comment3.target=int\ searchWithIterator(java.lang.Integer)
+comment3.text=\r\n\ This\ method\ search\ the\ index\ of\ the\ first\ required\ element\ in\ the\ list\r\n\ It\ uses\ enhanced\ for\ loop\r\n\ @param\ \ find\ the\ Integer\ to\ find\r\n\ @return\ \ \ \ the\ location\ of\ the\ first\ integer\ that\ equals\ to\ find\r\n
+comment4.params=find
+comment4.target=int\ searchWithoutIterator(java.lang.Integer)
+comment4.text=\r\n\ This\ method\ search\ the\ index\ of\ the\ first\ required\ element\ in\ the\ list\r\n\ It\ uses\ get\ method\r\n\ @param\ \ find\ the\ Integer\ to\ find\r\n\ @return\ \ \ \ the\ location\ of\ the\ first\ integer\ that\ equals\ to\ find\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ method\ convert\ the\ linked\ list\ to\ a\ string\r\n\ @param\ \ nothing\r\n\ @return\ \ \ \ the\ list\ as\ a\ string\r\n
+comment6.params=index
+comment6.target=int\ getNum(int)
+comment6.text=\r\n\ This\ method\ return\ the\ elelment\ at\ a\ specific\ location\r\n\ @param\ \ index\ in\ the\ lisy\r\n\ @return\ \ \ \ the\ element\ in\ the\ list\r\n
+numComments=7

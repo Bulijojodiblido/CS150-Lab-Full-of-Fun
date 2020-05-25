@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WordCount
+comment0.text=\r\n\ Word\ with\ the\ number\ of\ occurrance\r\n\r\n\ @author\ Yin\ Zheping\r\n\ @version\ 0.114514\r\n
+comment1.params=w\ c
+comment1.target=WordCount(java.lang.String,\ int)
+comment1.text=\r\n\ WordCount\ Constructor\r\n\r\n\ @param\ w\ the\ word\r\n\ @param\ c\ the\ number\ of\ occurance\r\n
+comment2.params=b
+comment2.target=int\ compareTo(WordCount)
+comment2.text=\r\n\ Compare\ two\ Entries\r\n\r\n\ @param\ b\ The\ other\ Entry\ to\ comapre\ with\r\n\ @return\ Their\ difference\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Convert\ this\ entry\ into\ a\ string\r\n\r\n\ @return\ This\ Entry\ in\ string\ form\r\n
+numComments=4

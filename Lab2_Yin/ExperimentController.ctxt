@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\r\n\ This\ class\ tests\ the\ array\ list\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=numberOfItems\ seed\ min\ max
+comment2.target=double\ timeAddToFront(int,\ int,\ int,\ int)
+comment2.text=\r\n\ This\ method\ calculate\ the\ time\ to\ add\ random\ even\ numbers\ to\ the\ front\r\n
+comment3.params=numberOfItems\ seed\ min\ max
+comment3.target=long\ timeAddToBack(int,\ int,\ int,\ int)
+comment3.text=\r\n\ This\ method\ calculate\ the\ time\ to\ add\ random\ even\ numbers\ to\ the\ back\r\n
+comment4.params=numberOfItems\ seed\ min\ max
+comment4.target=double\ timeAddSorted(int,\ int,\ int,\ int)
+comment4.text=\r\n\ This\ method\ calculate\ the\ time\ to\ add\ random\ even\ numbers\ \r\n\ to\ an\ sorted\ array\ and\ still\ keep\ it\ sorted\r\n
+comment5.params=numberOfItems\ seed\ min\ max
+comment5.target=double\ timeProductSorted(int,\ int,\ int,\ int)
+comment5.text=\r\n\ This\ method\ calculate\ the\ time\ to\ product\ the\ first\ element\ with\r\n\ random\ even\ numbers\ \r\n\ and\ still\ keep\ the\ array\ list\ sorted\r\n
+comment6.params=numberOfItems\ seed\ min\ max
+comment6.target=double\ timeSortofUnsortedList(int,\ int,\ int,\ int)
+comment6.text=\r\n\ This\ method\ calculate\ the\ time\ to\ sort\ an\ array(change\ one\ line\ to\ also\ calculate\ time\ to\ add\ elements)\r\n
+comment7.params=numberOfItems\ seed\ min\ max
+comment7.target=double\ timeSortofSortedList(int,\ int,\ int,\ int)
+comment7.text=\r\n\ This\ method\ calculate\ the\ time\ to\ sort\ a\ sorted\ array\r\n
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\r\n\ This\ class\ compares\ the\ run-time\ of\ the\ two\ search\ methods\ of\ MyIntegerContainer\r\n\r\n\ @author\ Yin\ Zheping\r\n\ @version\ 0.114514\r\n
+comment1.params=
+comment1.target=void\ ExperimentController()
+comment1.text=\r\n\ Where\ all\ the\ tests\ are\ run\r\n
+comment2.params=index
+comment2.target=long\ timeSearchWithIte(int)
+comment2.text=\r\n\ A\ method\ that\ shows\ the\ run-time\ of\ search\ methods\ with\ iterator\r\n\ It\ uses\ a\ chosen\ set\ of\ data\ with\ chosen\ data\ size\r\n\ *\ @param\ the\ index\ of\ the\ element\ to\ search\r\n\ @return\ \ \ \ the\ run\ time\ for\ the\ search\r\n
+comment3.params=index
+comment3.target=long\ timeSearchWithoutIte(int)
+comment3.text=\r\n\ A\ method\ that\ shows\ the\ run-time\ of\ search\ methods\ without\ iterator\r\n\ It\ uses\ a\ chosen\ set\ of\ data\ with\ chosen\ data\ size\r\n\ @param\ the\ index\ of\ the\ element\ to\ search\r\n\ @return\ \ \ \ the\ run\ time\ for\ the\ search\r\n
+comment4.params=dataSize
+comment4.target=void\ add(int)
+comment4.text=\r\n\ A\ method\ adds\ random\ numbers\ to\ a\ linked\ list\r\n\ @param\ dataSize\ data\ size\ of\ the\ test\ data\r\n\ @return\ \ \ \ the\ run\ time\ for\ the\ search\r\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ This\ is\ the\ node\ class\ of\ the\ Linked\ List\r\n\r\n\ @author\ Yin\ Zheping\r\n\ @version\ 0.114514\r\n
+comment1.params=x
+comment1.target=Node(java.lang.Object)
+comment1.text=\r\n\ Constructor\ of\ the\ node\ class\r\n\ @param\ x\ the\ value\ to\ store\ in\ each\ node\r\n
+comment2.params=x\ temp
+comment2.target=Node(java.lang.Object,\ Node)
+comment2.text=\r\n\ Constructor\ of\ the\ node\ class\r\n\ @param\ x\ the\ value\ to\ store\ in\ each\ node\r\n\ @param\ temp\ the\ node\ to\ link\ behind\ the\ current\ list\r\n
+comment3.params=x
+comment3.target=void\ append(java.lang.Object)
+comment3.text=\r\n\ A\ method\ adding\ Es\ into\ the\ next\ null\ Cell\ object\r\n\r\n\ @param\ \ x\ the\ value\ to\ add\r\n\ @return\ nothing\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ A\ method\ convert\ the\ node\ into\ a\ string\r\n\r\n\ @return\ the\ string\ form\ of\ the\ node\r\n
+numComments=5

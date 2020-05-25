@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TreeMultiSet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TreeMultiSet\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x
+comment1.target=void\ add(java.lang.Object)
+comment1.text=\r\n\ add\ one\ occurance\ to\ a\ specific\ element\ to\ the\ set\r\n\r\n\ @param\ x\ the\ word\ with\ this\ occurance\r\n
+comment2.params=x
+comment2.target=boolean\ contains(java.lang.Object)
+comment2.text=\r\n\ add\ one\ occurance\ to\ a\ specific\ element\ to\ the\ set\r\n\r\n\ @param\ x\ the\ word\ with\ this\ occurance\r\n
+comment3.params=x
+comment3.target=int\ count(java.lang.Object)
+comment3.text=\r\n\ add\ one\ occurance\ to\ a\ specific\ element\ to\ the\ set\r\n\r\n\ @param\ x\ the\ word\ with\ this\ occurance\r\n
+comment4.params=x
+comment4.target=boolean\ removeOne(java.lang.Object)
+comment4.text=\r\n\ add\ one\ occurance\ to\ a\ specific\ element\ to\ the\ set\r\n\r\n\ @param\ x\ the\ word\ with\ this\ occurance\r\n
+comment5.params=x
+comment5.target=boolean\ removeAll(java.lang.Object)
+comment5.text=\r\n\ add\ one\ occurance\ to\ a\ specific\ element\ to\ the\ set\r\n\r\n\ @param\ x\ the\ word\ with\ this\ occurance\r\n
+comment6.params=arr
+comment6.target=void\ toArray(java.lang.Object[])
+comment6.text=\r\n\ add\ one\ occurance\ to\ a\ specific\ element\ to\ the\ set\r\n\r\n\ @param\ x\ the\ word\ with\ this\ occurance\r\n
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WordFreqs
+comment0.text=\r\n\ Calculate\ the\ occurrance\ of\ words\r\n\r\n\ @author\ Yin\ Zheping\r\n\ @version\ 0.114514\r\n
+comment1.params=words
+comment1.target=WordFreqs(TreeMultiSet)
+comment1.text=\r\n\ WordFreqs\ Constructor\r\n\r\n\ @param\ words\ The\ TreeMultiSet\ to\ convert\ from\r\n
+comment2.params=n
+comment2.target=java.util.LinkedList\ mostCommon(int)
+comment2.text=\r\n\ Get\ the\ top\ n\ most\ common\ words\r\n\r\n\ @param\ n\ The\ numebr\ of\ most\ common\ words\r\n\ @return\ A\ list\ of\ the\ most\ common\ words\r\n
+numComments=3

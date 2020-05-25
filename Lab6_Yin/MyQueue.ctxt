@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment0.text=\r\n\ Queue\ Data\ Structure\r\n\r\n\ @Yin\ Zheping\r\n\ @0.114514\r\n
+comment1.params=val
+comment1.target=java.lang.Object\ add(java.lang.Object)
+comment1.text=\r\n\ Add\ one\ element\ to\ the\ back\r\n\r\n\ @param\ \ E\ \ the\ element\ to\ add\r\n\ @return\ \ \ \ the\ added\ element\r\n
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment2.text=\r\n\ It\ returns\ the\ first\ added\ element\ in\ the\ stack\r\n\r\n\ @return\ \ \ \ the\ added\ element\r\n
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+comment3.text=\r\n\ Remove\ the\ first\ added\ element\r\n\r\n\ @return\ \ \ \ the\ element\ removed\r\n
+numComments=4
